@@ -1,24 +1,31 @@
-# Project Name
+# Adventura (Travel & Tour E-Commerce Website)
 
-This project is a dynamic website built with PHP, CSS, JavaScript, and includes an admin panel to manage packages and view orders.
+## Overview
+
+This project is a responsive e-commerce website designed to facilitate the booking of travel packages. It uses PHP for server-side logic and phpMyAdmin for database management. The website includes an admin panel that allows administrators to manage travel packages and booking details efficiently.
 
 ## Features
 
-- **Admin Panel**: Allows the admin to add packages and view orders.
-- **Package Management**: Admin can add new packages.
-- **Order Viewing**: Admin can view customer orders.
-- **User Interaction**: Users can browse and book packages through the front end.
+- **Responsive Design**: Ensures compatibility across various devices, providing a seamless user experience.
+- **User Interface**: Intuitive and easy-to-navigate interface for browsing and booking travel packages.
+- **Admin Panel**: Allows administrators to manage travel packages and view booking details. Administrators can also add new travel packages directly via the panel.
 
+## Technologies Used
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: phpMyAdmin
+- **Framework**: Bootstrap (for responsive design)
 
 ## Installation
 
-To run this project locally:
+To set up the project locally:
 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/knilesh2212/your-repo-name.git
    ```
-   
+
 2. **Set up a local server**:  
    Ensure you have a local server that supports PHP, such as:
    - [XAMPP](https://www.apachefriends.org/index.html)
@@ -45,10 +52,3 @@ To run this project locally:
      ```
      http://localhost/your-repo-name
      ```
-     You should now be able to view the project, interact with the admin panel, and access the database.
-
-## Usage
-
-- **Admin Panel**: Visit `admin.php` to log in to the admin panel where you can add packages and view orders.
-- **Booking**: Users can book packages through the `book.php` page.
-
