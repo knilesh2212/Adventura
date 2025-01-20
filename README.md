@@ -19,10 +19,11 @@ This project is a responsive e-commerce website designed to facilitate the booki
 
 ## Screenshots
 <p>
-<img src="Screenshots/1.png" height="250px" style="border-radius:20px;">
-<img src="Screenshots/2.png" height="250px" style="border-radius:20px;">
-<img src="Screenshots/3.png" height="250px" style="border-radius:20px;">
-<img src="Screenshots/10.png" height="250px" style="border-radius:20px;">
+<img src="Screenshots/1.png" height="270px" style="border-radius:20px;">
+<img src="Screenshots/2.png" height="270px" style="border-radius:20px;">
+<img src="Screenshots/3.png" height="270px" style="border-radius:20px;">
+   <br>
+<img src="Screenshots/9.png" height="270px" style="border-radius:20px;">
 </p>
 <p>
 <img src="Screenshots/11.jpg" height="300px" style="border-radius:20px;">
